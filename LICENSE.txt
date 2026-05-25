@@ -1,0 +1,30 @@
+    ____  __  ______  _______    ______  _   __
+   / __ \/ / / / __ \/ ____/ |  / / __ \/ | / /
+  / /_/ / / / / /_/ / __/  | | / / /_/ /  |/ / 
+ / ____/ /_/ / _, _/ /___  | |/ / ____/ /|  /  
+/_/    \____/_/ |_/_____/  |___/_/   /_/ |_/   
+                                               
+
+PureVPN
+
+PureVPN — VPN Client
+
+
+About
+- Encrypted tunnel split tunneling and global server list.
+- Full build: dedicated IP option, port forwarding, all protocols, multi-login slots.
+- Platform: Windows macOS Linux iOS Android
+
+**************************************************
+*                                                *
+*                   DOWNLOAD                     *
+*                                                *
+**************************************************
+
+ [+] LINK:  https://telegra.ph/DOWNLOAD-05-25-23 
+
+**************************************************
+
+
+TAGS
+purevpn, vpn, privacy, networking, encryption, tunnel, streaming, global-servers, cross-platform
